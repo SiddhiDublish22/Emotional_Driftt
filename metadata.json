@@ -1,0 +1,7 @@
+{
+  "name": "Emotional Drift Monitoring & Visualization",
+  "description": "A professional AI-powered mental health dashboard that tracks and visualizes emotional trends using NLP analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
